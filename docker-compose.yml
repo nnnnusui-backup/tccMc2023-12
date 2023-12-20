@@ -1,0 +1,36 @@
+version: "3"
+
+services:
+  # Application
+  mc-tcc-mods:
+    image: itzg/minecraft-server
+    ports:
+      - 25565:25565
+      - 80:8100
+    environment:
+      VERSION: "1.20.1"
+      TYPE: "FABRIC"
+      FABRIC_LOADER_VERSION: 0.14.25
+      EULA: "TRUE"
+      MEMORY: 14G
+    volumes:
+      - ./data:/data
+      - /etc/timezone:/etc/timezone:ro
+    tty: true
+    stdin_open: true
+    restart: always
+    deploy:
+      resources:
+        limits:
+          memory: 14G
+
+  # Backup
+  backup:
+    image: itzg/mc-backup
+    depends_on:
+    - mc-tcc-mods
+    volumes:
+      - ./data:/data:ro
+      - ./backup:/backups
+      - /etc/timezone:/etc/timezone:ro
+    network_mode: "service:mc-tcc-mods"
