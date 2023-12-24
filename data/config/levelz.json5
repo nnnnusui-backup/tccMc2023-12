@@ -12,9 +12,9 @@
 	"pointsPerLevel": 1,
 	// If true will reset stats on death
 	"hardMode": false,
-	"disableMobFarms": true,
+	"disableMobFarms": false,
 	// Amount of allowed mob kills in a chunk
-	"mobKillCount": 5,
+	"mobKillCount": 2147483647,
 	// Strange potion resets all stats instead of one
 	"opStrangePotion": false,
 	// restrict hand usage when item not unlocked, client only
