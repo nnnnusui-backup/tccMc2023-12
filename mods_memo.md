@@ -1,5 +1,8 @@
 # もどメモ
 
+## create
+- [Createのdeployerでmobをkillするとクラッシュする](https://github.com/Fabricators-of-Create/Create/issues/1096#issuecomment-1864507425)ので、鯖側のバージョンをリンク先の配布ファイルに変更した。
+
 ## Disabled & Removed
 
 - Panda's Extra Details  

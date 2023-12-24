@@ -39,7 +39,7 @@ conjuring-1.0.29+1.20.jar
 CosmeticArmor-1.20-1.6.0.jar
 createdeco-2.0.0-fabric-1.20.1.jar
 create_enchantment_industry-1.2.11.jar
-create-fabric-0.5.1-d-build.1161+mc1.20.1.jar
+create-fabric-0.5.1-d-build.1161+mc1.20.1-patched2.jar
 create-structures-0.1.1-1.20.1-FABRIC.jar
 cristellib-1.1.5-fabric.jar
 ctov-3.3.6.jar
