@@ -23,14 +23,3 @@ services:
       resources:
         limits:
           memory: 14G
-
-  # Backup
-  backup:
-    image: itzg/mc-backup
-    depends_on:
-    - mc-tcc-mods
-    volumes:
-      - ./data:/data:ro
-      - ./backup:/backups
-      - /etc/timezone:/etc/timezone:ro
-    network_mode: "service:mc-tcc-mods"
