@@ -11,8 +11,6 @@
     1. json内の項目`version`を`0.5.1-d-build.5+mc1.20.1`から書き替える。  
       -> `0.5.1-d-build.1161+mc1.20.1` 
     1. `.jar`内の元のファイルを置き換える。
-- Server Side にも必要なはずの`recipe-book-delight-0.3.0-1.20.jar`は、クラッシュするのでサーバーには導入されていない。  
-  https://github.com/melontini/recipe-book-delight/issues/4
 
 ## Disabled & Removed
 
@@ -27,3 +25,6 @@
 - Snow! Real Magic!  
   描画が上手く行えずブロックが透過していた  
   削除は破壊的変更 雪が積もっていたブロックは消える
+- `recipe-book-delight-0.3.0-1.20.jar`
+  サーバーに導入するとクラッシュ。https://github.com/melontini/recipe-book-delight/issues/4  
+  また、サーバーに導入されていないとjoin時にエラーが出る。

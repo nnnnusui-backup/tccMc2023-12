@@ -1,5 +1,5 @@
 out_path="mods-client.txt"
-src_dir="/mnt/c/_/game/minecraft/modrinth/profiles/1.20.1 TCC v1.0.1/mods"
+src_dir="/mnt/c/_/game/minecraft/modrinth/profiles/1.20.1 TCC/mods"
 tmp_dir="client-mods-tmp"
 
 echo "rm tmp[$tmp_dir] ..."
