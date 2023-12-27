@@ -18,6 +18,7 @@ Controlling-fabric-1.20.1-12.0.2.jar
 CosmeticArmor-1.20-1.6.0.jar
 CraftPresence-2.2.6+1.20.1.jar
 DetailArmorBar-2.6.3+1.20.1-fabric.jar
+DistantHorizons-2.0.1-a-1.20.1.jar
 DistractingTrims-Fabric-1.20.1-2.0.3.jar
 DripSounds-1.19.4-0.3.2.jar
 Durability-Alert-0.1-1.20.1.jar
@@ -80,6 +81,7 @@ betterladdersmod-1.20.x.jar
 bettermounthud-1.2.2.jar
 betterz-1.0.jar
 biomemakeover-FABRIC-1.20.1-1.11.4.jar
+blendium-1.0.1+mc1.20.x.jar
 bluemap-offline-player-markers-2.6-fabric.jar
 bluemapsignmarkers-1.20.1-0.0.3.6.jar
 blur-3.1.0.jar
@@ -199,6 +201,7 @@ polyeng-fabric-0.1.0-1.20.1.jar
 polymorph-fabric-0.49.1+1.20.1.jar
 portalgun-6.0.1-mc1.20.1-fabric.jar
 puffish_skills-0.10.0-1.20-fabric.jar
+reeses_sodium_options-1.6.5+mc1.20.1-build.95.jar
 reinforced-barrels-2.4.1+1.20.jar
 reinforced-chests-2.4.2+1.20.jar
 reinforced-shulker-boxes-2.5.0+1.20.jar
@@ -206,7 +209,9 @@ respawnablepets-1.20-1.jar
 seamless-2.2.2-fabric-1.20.1.jar
 seamless-loading-screen-2.0.3+1.20.1-fabric.jar
 snowysniffer-1.20.1-1.0.0.jar
+sodium-extra-0.5.1+mc1.20.1-build.112.jar
 sodium-fabric-mc1.20.1-0.5.3.jar
+sodium-shadowy-path-blocks-3.2.1.jar
 spark-1.10.53-fabric.jar
 spyglass-improvements-1.4+mc1.20+fabric.jar
 spyglass_astronomy-1.0.8-mc1.20+.jar
