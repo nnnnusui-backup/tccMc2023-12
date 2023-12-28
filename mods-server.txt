@@ -79,6 +79,7 @@ ctov-create-structures-1.0.jar
 ctov-farmers-delight-compat-2.1.jar
 ctov-villagers-plus-compat-2.0.jar
 davespotioneering-fabric-1.20.1-1.jar
+dcintegration-fabric-3.0.5-1.20.1.jar
 deeperdarker-fabric-1.20-1.2.5.jar
 delightful-creators-1.1.8.jar
 dimension-detector-1.2.0.jar
@@ -101,6 +102,7 @@ guardvillagers-2.0.8-1.20.1.jar
 hybrid-aquatic-1.1.0.jar
 immersive-portals-3.3.7-mc1.20.1-fabric.jar
 immersive_paintings-0.6.7+1.20.1-fabric.jar
+immersivemc-1.4.1-1.20.1-fabric.jar
 imst-2.1.0.jar
 indium-1.0.27+mc1.20.1.jar
 infiniteanviluses-0.1.0.jar
